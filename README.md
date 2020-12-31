@@ -13,6 +13,6 @@
 
 ### Place files into a directory and set "index.html" file as home screen and new tab page
 
-### Copyright:
+### Resources that i used:
 * Nt Fuji picture: [WallpaperCave](https://wallpapercave.com/mt-fuji-wallpaper)
 * Fonts: see [HTML file](https://github.com/Alededorigo/Kanji/blob/main/index.html)
