@@ -11,7 +11,14 @@
 * For Firefox use "Custom New Tab Page"
 * For Chrome use "Custom New Tab"
 
-### Place files into a directory and set "index.html" file as home screen and new tab page
+### Usage:
+On the new tab: use one of the extensions mentioned
+
+On the home page:
+* Firefox: Go into
+```Preferences > Home > Homepage and new windows```
+* Chrome: Go into
+``` Options > Start > Homepage```
 
 ### Resources that i used:
 * Nt Fuji picture: [WallpaperCave](https://wallpapercave.com/mt-fuji-wallpaper)
