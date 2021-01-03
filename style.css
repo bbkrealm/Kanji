@@ -103,6 +103,8 @@ img{
     width: 17px;
     transform: translateY(2px);
     padding-right: 4px;
+    -webkit-filter: grayscale(60%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
 }
 
 .column a.git img{
